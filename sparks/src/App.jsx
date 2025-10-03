@@ -894,7 +894,8 @@ export default function App() {
         <section id="tech-stack">
             <div className="container">
                 <div className="section-header">
-                    <h2 className="gradient-text">Built with Modern Tech</h2>
+                    <h2 className="gradient-text">Built with Modern Tech-Stack</h2>
+                    <h4>Crafted with the cool and modern tech that powers your favorite apps and websites.</h4>
                 </div>
                 <div className="tech-stack-card">
                     <div className="marquee-container">
